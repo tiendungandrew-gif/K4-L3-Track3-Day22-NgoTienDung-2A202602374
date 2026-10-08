@@ -1,0 +1,4 @@
+# Ensure consistent LF line endings across OS platforms
+*.jsonl text eol=lf
+*.parquet binary
+*.png binary
